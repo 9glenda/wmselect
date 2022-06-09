@@ -1,0 +1,3 @@
+#!/bin/sh
+skhkd &
+dbus-launch bspwm
