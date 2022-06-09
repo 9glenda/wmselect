@@ -1,3 +1,3 @@
 install:
-	cp -r .wmselect ~
-	cp wmselect ~
+	cp -fr .wmselect ~
+	cp -f wmselect ~
