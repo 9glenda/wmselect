@@ -1,0 +1,2 @@
+#!/bin/sh
+dbus-launch 9 rio

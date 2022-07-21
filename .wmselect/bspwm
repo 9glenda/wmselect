@@ -1,3 +1,2 @@
 #!/bin/sh
-sxhkd &
 dbus-launch bspwm
