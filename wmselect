@@ -1,5 +1,5 @@
 #!/bin/sh
 wm=`dialog --menu "select window manager" 0 0 0 \
- "dwm" "" "bspwm" "" "i3" "" 3>&1 1>&2 2>&3`
+ "dwm" "" "bspwm" "" "rio" "" 3>&1 1>&2 2>&3`
 cp ~/.wmselect/$wm ~/.xinitrc
 startx
